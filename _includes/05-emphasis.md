@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*we like to automate everything*
+
+**but**
+_some time it won't work_
+__Then__
+
+_We should **Fix** it_
