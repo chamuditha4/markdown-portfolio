@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. programming
+2. gaming
+3. traveling
+   1. enjoy little moements
